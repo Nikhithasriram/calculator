@@ -1,5 +1,7 @@
 # calculator
 
+a calculator app with bodmas features 
+
 A new Flutter project.
 
 ## Getting Started
