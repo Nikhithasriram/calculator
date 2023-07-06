@@ -274,6 +274,7 @@ class _CalcState extends State<Calc> {
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
+             
               myButton("C", calc, ccolorfont, 65, 65),
               myButton("<", calc, ccolorfont, 65, 65),
               myButton("%", calc, ccolorfont, 65, 65),
@@ -315,7 +316,6 @@ class _CalcState extends State<Calc> {
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
               // myButton("", numberColorColor, nucolorfont),
-
               myButton("0", numberColor, nucolorfont, 65, 65),
 
               myButton(".", numberColor, nucolorfont, 65, 65),
