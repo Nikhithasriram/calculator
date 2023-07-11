@@ -4,7 +4,8 @@ Simple caluculator App
 ## Features
  * A calculator app with bodmas features
  * Beatiful UI
- * 
+
+<img src = "img.jpg" width = 400 >
 
 A new Flutter project.
 
