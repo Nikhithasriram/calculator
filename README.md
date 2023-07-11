@@ -1,6 +1,10 @@
 # calculator
 
-a calculator app with bodmas features 
+Simple caluculator App
+## Features
+ * A calculator app with bodmas features
+ * Beatiful UI
+ * 
 
 A new Flutter project.
 
