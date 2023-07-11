@@ -7,6 +7,9 @@ Simple caluculator App
 
 <img src = "img.jpg" width = 400 >
 
+------
+
+
 A new Flutter project.
 
 ## Getting Started
